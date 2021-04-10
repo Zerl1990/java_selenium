@@ -1,4 +1,8 @@
 # Compiled class file
+.idea
+
+JavaSelenium.iml
+
 *.class
 
 # Log file
